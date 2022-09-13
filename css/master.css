@@ -1,0 +1,85 @@
+html {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background: linear-gradient(160deg, #FF6B6B, #556270  );
+
+    margin: 0;
+}
+
+h1 {
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    text-decoration: underline;
+    height: 100%;
+    margin-bottom: 50px;
+
+}
+.food_gif {
+    height: 225px;
+    width: 402px;
+    margin-bottom: 50px;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+
+}
+h2 {
+    text-align: center;
+    color: white;
+    margin-bottom: 3rem;
+    font-family: 'Oooh Baby';
+    font-size: 40px;
+    
+
+
+}
+.Text_box {
+    margin-left: 40%;
+    margin-right: 50%;
+    display: block;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.item {
+    
+    font-family: 'Ooh Baby';
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 6.5rem;
+}
+.Text_box a {
+    text-decoration: none;
+}
+.ing {
+    font-weight: bold;
+    color: rgb(177, 51, 93);
+    margin-bottom: 24px;
+    font-size: 21px;
+}
+.Text_box2 p {
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 26px;
+    color: white;
+}
+h3 {
+    font-family: "Sofia", sans-serif;
+    color: white;
+}
+.Homebtn a {
+    text-decoration: none;
+    font-size: 25px;
+   
+}
+.Homebtn {
+    padding-left: 15%;
+}
